@@ -1,0 +1,25 @@
+img {
+    width:500px;
+}
+body {
+    font-family: 'Pinyon Script', cursive;
+    font-size:50px;
+    color:red;
+    background: url(https://www.desktopbackground.org/download/1400x1050/2013/10/30/662474_high-resolution-gold-glitter-wallpapers-for-desktop-full-size_1920x1080_h.jpg);
+}
+ h1 {
+    font-family: 'Pinyon Script', cursive;
+    
+    border-radius:500px;
+ }
+ .p {
+     color:red;
+ }
+ strong {
+     font-family: 'Pinyon Script', cursive;
+     font-size:90px;
+ }
+ .smaller {
+ width:80px;
+ }
+     
