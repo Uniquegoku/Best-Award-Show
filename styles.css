@@ -20,6 +20,9 @@ body {
      font-size:90px;
  }
  .smaller {
- width:80px;
+ width:180px;
  }
-     
+ .border {
+     border-width:30px;
+     border-color:lime;
+ }
